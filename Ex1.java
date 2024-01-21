@@ -22,7 +22,6 @@ public class Ex1 {
 
 
     public static void main(String[] args){
-        //s
         int[] A = {6,2,1};
         int[] B = {1,2};
         int[] C = SumArrays(A, B);
